@@ -1,0 +1,12 @@
+D:\INFO5060\HangmanClient\HangmanLibrary\bin\Debug\HangmanLibrary.dll
+D:\INFO5060\HangmanClient\HangmanLibrary\bin\Debug\HangmanLibrary.pdb
+D:\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.csprojAssemblyReference.cache
+D:\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.csproj.CoreCompileInputs.cache
+D:\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.dll
+D:\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\bin\Debug\HangmanLibrary.dll
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\bin\Debug\HangmanLibrary.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.csprojAssemblyReference.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.csproj.CoreCompileInputs.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.dll
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanLibrary\obj\Debug\HangmanLibrary.pdb

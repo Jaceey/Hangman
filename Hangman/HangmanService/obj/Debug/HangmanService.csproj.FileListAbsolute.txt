@@ -1,0 +1,20 @@
+D:\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.exe.config
+D:\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.exe
+D:\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.pdb
+D:\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanLibrary.dll
+D:\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanLibrary.pdb
+D:\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csprojAssemblyReference.cache
+D:\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csproj.CoreCompileInputs.cache
+D:\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csproj.CopyComplete
+D:\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.exe
+D:\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.exe.config
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.exe
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanService.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanLibrary.dll
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\bin\Debug\HangmanLibrary.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csprojAssemblyReference.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csproj.CoreCompileInputs.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.csproj.CopyComplete
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.exe
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanService\obj\Debug\HangmanService.pdb

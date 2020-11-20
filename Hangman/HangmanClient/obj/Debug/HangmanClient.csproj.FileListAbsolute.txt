@@ -1,0 +1,38 @@
+D:\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe.config
+D:\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe
+D:\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.pdb
+D:\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanLibrary.dll
+D:\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanLibrary.pdb
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csprojAssemblyReference.cache
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\MainWindow.g.cs
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\App.g.cs
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient_MarkupCompile.cache
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient_MarkupCompile.lref
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\Dictionary1.baml
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\MainWindow.baml
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.g.resources
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.Properties.Resources.resources
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.GenerateResource.cache
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.CoreCompileInputs.cache
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.CopyComplete
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.exe
+D:\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe.config
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanClient.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanLibrary.dll
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\bin\Debug\HangmanLibrary.pdb
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csprojAssemblyReference.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\MainWindow.g.cs
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\App.g.cs
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient_MarkupCompile.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient_MarkupCompile.lref
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\Dictionary1.baml
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\MainWindow.baml
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.g.resources
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.Properties.Resources.resources
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.GenerateResource.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.CoreCompileInputs.cache
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.CopyComplete
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.exe
+F:\School Folder\ALL SCHOOL\INFO5060\HangmanClient\HangmanClient\obj\Debug\HangmanClient.pdb
